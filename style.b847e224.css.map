@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,UACE,kBACF,CAEA,OACE,kBACF,CAEA,kBACE,eACF,CAEA,gBACE,WACF","file":"style.b847e224.css","sourceRoot":"..\\src","sourcesContent":[".fieldset {\n  margin-bottom: 20px;\n}\n\n.block {\n  margin-bottom: 10px;\n}\n\n.block:last-child {\n  margin-bottom: 0;\n}\n\n#comments:focus {\n  cursor: none;\n}\n"]}
